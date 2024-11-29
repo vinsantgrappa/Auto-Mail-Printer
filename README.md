@@ -64,3 +64,9 @@
    - ログを活用してトラブルシューティングを支援します。
 
 ---
+## 出力イメージ
+1. **受信したメール**
+- ![received_mail](https://github.com/user-attachments/assets/700bcd04-1ac5-4e59-aa28-1853a65fe888)
+
+2. **出力されたメールPDF**
+- ![printed_mail_pdf](https://github.com/user-attachments/assets/a7735c0b-8637-459f-a110-8e199785c239)
